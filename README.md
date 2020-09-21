@@ -3,7 +3,7 @@
 ## Purpose
 Template website featuring a slider to switch between light and dark modes, and to save the users current preference on reload
 
-### See live code here <https://wildelyssa.github.io/light-dark-mode/> 
+### See live code here <https://wildelyssa.github.io/dark-light-mode/> 
 
 ## Tech used
 HTML
